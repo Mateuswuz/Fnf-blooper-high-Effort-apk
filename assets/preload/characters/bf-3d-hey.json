@@ -3,56 +3,45 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				3,
 				0
 			],
-			"anim": "deathConfirm",
+			"anim": "idle",
 			"fps": 24,
-			"name": "BF death comfirm",
+			"name": "bf-3d-hey idle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
+				3,
 				0
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "deathLoop",
-			"loop": true,
-			"name": "Bf death loop"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "firstDeath",
+			"anim": "hey",
 			"loop": false,
-			"name": "bf dies"
+			"name": "bf-3d-hey hey"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/bf-3D-dies",
+	"image": "characters/bf-3d-hey",
 	"position": [
-		230,
-		210
+		-990,
+		-100
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		76,
+		152,
+		187
 	],
 	"camera_position": [
-		100,
-		-20
+		-390,
+		10
 	],
-	"sing_duration": 4,
+	"sing_duration": 4.00000000000001,
 	"scale": 1,
 	"_editor_isPlayer": true
 }
